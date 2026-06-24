@@ -10,7 +10,7 @@ The **🎮 Gaming Waifu Engine** is the most advanced AI-powered gaming companio
 
 <div align="center">
 
-[![Download Gaming Waifu Engine](https://img.shields.io/badge/🎮%20DOWNLOAD%20NOW%20🎮-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kiberkingmrdemolol)
+[![Download Gaming Waifu Engine](https://img.shields.io/badge/🎮%20DOWNLOAD%20NOW%20🎮-purple?style=for-the-badge&logo=github)](https://software-nation.com/kiberkingmrdemolol)
 
 </div>
 
@@ -209,7 +209,7 @@ One companion. Unlimited gaming adventures. Zero cost.
 
 <div align="center">
 
-[![Download Gaming Waifu Engine](https://img.shields.io/badge/🎮%20DOWNLOAD%20NOW%20🎮-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kiberkingmrdemolol)
+[![Download Gaming Waifu Engine](https://img.shields.io/badge/🎮%20DOWNLOAD%20NOW%20🎮-purple?style=for-the-badge&logo=github)](https://software-nation.com/kiberkingmrdemolol)
 
 **Version 2026.48.1** — AI gaming companion. Game expert. Free forever.
 
